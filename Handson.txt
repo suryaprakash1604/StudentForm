@@ -534,3 +534,18 @@ function deleteStudent(id){
             value="classpath:messages" />
     </beans:bean>
 </beans:beans>
+
+
+Student Details
+Student Id	Name	Age	Date of Birth	Gender	Address	Action
+103017	Rajesh	16	2021-04-01 00:00:00.0	male	BBB street	Edit	Delete
+103432	Sam billings	16	2021-04-01 00:00:00.0	male	abc street	Edit	Delete
+123452	Ramesh	15	2021-04-10 00:00:00.0	male	MMM street	Edit	Delete
+123864	Surya prakash	16	1999-04-16 00:00:00.0	male	abc street	Edit	Delete
+149870	Sam billings	16	2021-04-05 00:00:00.0	male	RRR street	Edit	Delete
+149970	Ramesh	16	2021-04-06 00:00:00.0	male	MMM street	Edit	Delete
+169440	Ramesh	14	2021-04-14 00:00:00.0	male	RRR street	Edit	Delete
+176031	Surya prakash	16	2021-04-12 00:00:00.0	male	EEE street	Edit	Delete
+178429	Sam billings	16	2021-04-07 00:00:00.0	male	MMM street	Edit	Delete
+180976	Ramesh	16	2021-04-14 00:00:00.0	male	RRR street	Edit	Delete
+188444	Surya prakash	16	1999-04-16 00:00:00.0	male	abc street	Edit	Delete
